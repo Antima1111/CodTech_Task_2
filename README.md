@@ -28,12 +28,12 @@ Then, it formats and exports these details into a professional PDF report using 
 
 Make sure you have Python installed, then run the following:
 
-```bash
 pip install pandas fpdf
 python report_generator.py
 
----
-## 📸 Sample Output
+----
+
+##  📸 Sample Output
 
 You can find a sample report in this repository as sales_report.pdf.  
 It includes sales totals, breakdowns, and highlights the top-performing product.
